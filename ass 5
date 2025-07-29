@@ -48,3 +48,5 @@ plt.title('Logistic Regression Decision Boundary on Iris Dataset (Setosa vs Vers
 plt.show()
 
 accuracy, precision, recall, f1
+
+
